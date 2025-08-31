@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Welcome to my GitHub page!  
+I’m learning **Cybersecurity** and **IT fundamentals**, and I’ll be using this space to share my learning journey and future projects.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
